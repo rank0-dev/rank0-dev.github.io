@@ -1,2 +1,3 @@
-# rank0-dev.github.io
-Rank 0 Website
+# Rank 0 Website
+
+Our public website at https://rank0.dev
